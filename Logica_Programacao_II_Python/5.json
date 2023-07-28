@@ -1,0 +1,81 @@
+{
+  "cliente": {
+    "cpf": "999.888.777-96",
+    "cnpj": ""
+  },
+  "empresa": {
+    "nome": "Ada Tech",
+    "razaoSocial": "Ada Tecnologia Ltda",
+    "cnpj": "18.035.621/0001-76"
+  },
+  "loja": {
+    "nome": "Loja Faria Lima",
+    "codigo": "L003",
+    "cnpj": "18.035.621/0001-76"
+  },
+  "vendaProdutos": {
+    "itens": [
+      {
+        "nsu": 1,
+        "valor": 8.18,
+        "ean": "00000000086288",
+        "cod_item": "6",
+        "descricao": "MAX NIVEL MADEIRA 16***",
+        "departamento": "Diversos",
+        "id_departamento": 5,
+        "qtd": 1,
+        "valorDesconto": 0,
+        "valorVenda": 8.18,
+        "dhRegistro": "2023-07-05 11:41:54"
+      },
+      {
+        "nsu": 2,
+        "valor": 18.52,
+        "ean": "0034264495272",
+        "cod_item": "39",
+        "descricao": "LIQUIDIFICADOR 220 TRAPEZE 500W C/FILTRO AMARELO",
+        "departamento": "Diversos",
+        "id_departamento": 5,
+        "qtd": 1,
+        "valorDesconto": 0,
+        "valorVenda": 18.52,
+        "tipoPreco": "Normal",
+        "dhRegistro": "2023-07-05 11:41:59"
+      }
+    ]
+  },
+  "venda": {
+    "pdv": "005",
+    "cupom": 222,
+    "cupomDtEmissao": "2023-07-05 11:42:23",
+    "nfFiscal": 104,
+    "nfSerie": 101,
+    "dhInicioVenda": "2023-07-05 11:42:23",
+    "qtdItens": 2,
+    "valor": "26.70",
+    "valorDesconto": 0,
+    "valorEncargos": "9.07",
+    "valorFinal": 26.7,
+    "vdadosFiscais": {
+      "vImpFederal": "4.65",
+      "vImpEstadual": "4.42",
+      "vImpMunicipal": "0.00"
+    },
+    "vmeioPagamentos": [
+      {
+        "mPag": "Dinheiro",
+        "mPagBandeira": "",
+        "nCartao": "",
+        "nParcelas": "",
+        "parcelasFlagJuros": "",
+        "troco": 3.30,
+        "valor_transacao": 30
+      }
+    ],
+    "dhFinalVenda": "2023-07-05 11:42:23",
+    "chave_nfce": "35230715549414000141651250000002491483776944",
+    "protocolo_autorizacao": "122843219875438",
+    "url_qrcode": "https://ada.tech",
+    "id_usuario": "2"
+  }
+}
