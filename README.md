@@ -27,4 +27,7 @@ Continuação com aulas de Python. Tópicos abordados:
   - arquivos
 
 ## Técnicas de Programação I
-Aulas sobre versionamento de códigos (Git e GitHub) e bibliotecas Python muito utilizadas em Ciência de Dados (NumPy e Pandas). 
+Aulas sobre versionamento de códigos (Git e GitHub) e bibliotecas Python muito utilizadas em Ciência de Dados (NumPy, Pandas, Matplotlib e Seaborn). 
+
+## Banco de Dados I
+
